@@ -9,5 +9,6 @@ module.exports = defineConfig({
     viewportWidth: 1440,
     viewportHeight: 900,
     baseUrl: "https://buger-eats-qa.vercel.app",
+    projectId: "d6ho44",
   },
 });
